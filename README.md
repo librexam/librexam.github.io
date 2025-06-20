@@ -1,8 +1,10 @@
 ## [LibrExam](https://www.github.com/librexam/librexam.github.io)
 
 ![logo](./librexamTyped.svg)<br>
-is a powerful, fully static, and (optionally) decentralised test and quizzing engine - powered by Vue.js. [Check out the development branch!](https://www,github.com/sayakdattagupta/librexam-dev)
+is a powerful, fully static, and (optionally) decentralised test and quizzing engine - powered by Vue.js. [Check out the development branch!](https://github.com/sayakdattagupta/librexam-dev)
 Project is very much WIP and still alpha.
+
+Also, check out the [repo](https://github.com/librexam/testReoi) where I am hosting the sample tests.
 
 ## Philosophy
 I realize this project might not exactly be 'libre', hence, to avoid any potential feuds, I have used a creative naming scheme (LibrE).
